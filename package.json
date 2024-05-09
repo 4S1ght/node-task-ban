@@ -1,0 +1,16 @@
+{
+  "name": "task-ban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "systeminformation": "^5.22.8",
+    "tree-kill": "^1.2.2"
+  }
+}

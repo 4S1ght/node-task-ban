@@ -1,0 +1,10 @@
+{ 
+    "executables": [
+        "steam.exe",
+        "RedM.exe",
+        "FiveM.exe",
+        "RiotClientServices.exe",
+        "etc..."
+    ],
+    "intervalSeconds": 10
+}
